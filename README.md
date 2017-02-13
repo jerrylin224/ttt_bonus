@@ -8,4 +8,4 @@
 
 ![](images/tic_tac_toe_1.gif)
 
-![](images/tic_tac_toe_1.gif)
+![](images/tic_tac_toe_2.gif)
